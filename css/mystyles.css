@@ -1,0 +1,33 @@
+body{background-color:rgb(235, 215, 191);
+    border: 5px solid black;
+    margin: 20px;
+    padding: 30px;
+}
+
+ul{
+    font-size: 20px;
+}   
+
+.emphasizedtext{
+    font-weight: bold; 
+    font-size: 20px;
+    margin: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    width: 75%;
+}
+
+li{
+    font-size:medium;
+}
+
+.tableauPlaceholder{
+    width: 75%
+}
